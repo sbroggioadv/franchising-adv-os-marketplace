@@ -1,0 +1,8 @@
+{
+  "name": "franchising-adv-os",
+  "version": "0.1.0",
+  "description": "Plugin Claude Code de franchising brasileiro (Franchising Master) sob a Lei 13.966/2019 vigente — ciclo de vida completo da franquia, da formatacao ao desfecho processual. Orquestrador franchising-master que dirime todas as skills por tarefa: FORMATACAO (Circular de Oferta de Franquia com os 23 incisos do art. 2o, contrato de franquia empresarial, clausula de nao-concorrencia e de bandeira, DRE da unidade-modelo), MANUAIS operacionais que extraem o DNA da empresa (abertura da empresa, premissas arquitetonicas, manual da marca/brand book, manual de operacoes ponta-a-ponta), EXTRAJUDICIAL bidirecional (notificacao e resposta franqueado-franqueadora, aditivo de inclusao da PJ, distrato amigavel), CONTENCIOSO (acao de rescisao com multa e nao-concorrencia, anulatoria de COF deficiente com devolucao de royalties, concorrencia desleal e cessacao do uso de bandeira com tutela de urgencia, contestacao e reconvencao side-aware), EXECUCAO de titulo extrajudicial (debitos, royalties, fundo de marketing, multa) com embargos, e RECURSOS (agravo de instrumento, apelacao, REsp e RE). Premissa estrutural: contrato de franquia e empresarial e paritario — CDC NAO incide entre franqueador e franqueado (art. 1o da Lei 13.966/2019), distinguindo-se da responsabilidade da rede perante o consumidor final. Fundacao juridica enraizada (Lei 13.966/2019, CPC/2015, LPI 9.279/96, jurisprudencia TJSP/STJ/STF), varredura jurisprudencial pre-tese, Suprema Corte franchising R1-R4 e anti-alucinacao por design. Onboarding via /start-franchising.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  }
+}

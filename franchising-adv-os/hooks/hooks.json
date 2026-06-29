@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo '[franchising-adv-os] Franchising Master ativo. Porta unica: franchising-master. Onboarding: /start-franchising. Lei 13.966/2019 vigente (NUNCA a revogada 8.955/94). Franquia = relacao EMPRESARIAL: CDC nao incide entre franqueador e franqueado (art. 1o). Sempre passar pela gestao (competencia/foro/arbitragem art. 7o §1o) e fechar pela suprema-corte-franchising. Tudo side-aware (franqueador x franqueado).'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}

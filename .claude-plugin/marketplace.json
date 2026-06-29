@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "franchising-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Franchising Adv-OS — ciclo de vida completo da franquia brasileira sob a Lei 13.966/2019.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "franchising-adv-os",
+      "source": "./franchising-adv-os",
+      "description": "Franchising Master — ciclo de vida completo da franquia brasileira (Lei 13.966/2019), da formatacao ao desfecho processual. Formatacao (COF 23 incisos, contrato empresarial, clausula de nao-concorrencia e de bandeira, DRE da unidade-modelo), manuais operacionais (abertura, arquitetonico, marca, operacoes), extrajudicial bidirecional (notificacao/resposta, aditivo de inclusao da PJ, distrato), contencioso (rescisao, anulatoria de COF, concorrencia desleal e cessacao de bandeira com tutela de urgencia, contestacao e reconvencao side-aware), execucao (debitos/royalties/fundo/multa) e recursos (AI, apelacao, REsp/RE). Premissa: franquia e relacao EMPRESARIAL — CDC nao incide entre franqueador e franqueado (art. 1o). 40 skills, orquestrador franchising-master, Suprema Corte R1-R4 e anti-alucinacao por design.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}
