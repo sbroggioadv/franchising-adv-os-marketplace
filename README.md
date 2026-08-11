@@ -1,5 +1,21 @@
 # franchising-adv-os-marketplace
 
+> ## ⚖️ Este repositório NÃO é software livre
+>
+> O código fica visível para viabilizar a instalação no Claude/Cowork — não porque seja gratuito.
+>
+> **FRANCHISING ADV-OS — R$ 498,00, pagamento único** (sem assinatura, sem recorrência)
+> 👉 **[Adquirir a licença](https://pay.kirvano.com/a741f493-ecfc-48d5-b55e-1c588e7f02ed)**
+>
+> **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+>
+> Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
+>
+> **Já comprou?** Nada a fazer — sua licença cobre o uso e o fork para instalação. Este aviso vale de
+> 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
+
+
 Marketplace oficial do plugin **Franchising Adv-OS** (Franchising Master) — o sistema operacional do advogado de franquias, cobrindo o ciclo de vida completo da franquia brasileira sob a **Lei 13.966/2019**, da formatação ao desfecho processual.
 
 ## Instalação (Cowork)
@@ -23,4 +39,4 @@ Onboarding: rode **`/start-franchising`**.
 
 ---
 
-© Sbroggio Advocacia & IA Combativa. Licença MIT.
+© IA Combativa. Licença proprietária (ver LICENSE).
